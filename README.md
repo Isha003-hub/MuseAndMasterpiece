@@ -13,7 +13,7 @@
   - Create, update, and delete Category.
   
 - *Entity Relationships*
-  - One-to-Many: 
+  - One-to-Many:  
       • Artists -> Artworks  
       • Category -> Artworks  
     
@@ -58,7 +58,7 @@
 ## Future Enhancements 
 
 •	Artist Profile Picture (Add/Remove).  
-•	Comments/ratings for artworks. 
+•	Comments/ratings for artworks.  
 •	Search functionality (e.g., by artist, category, or artwork title).  
 •	Sort/Filter option  
 
