@@ -59,8 +59,8 @@
 
 •	Artist Profile Picture (Add/Remove).  
 •	Comments/ratings for artworks. 
-•	Search functionality (e.g., by artist, category, or artwork title). 
-•	Sort/Filter option 
+•	Search functionality (e.g., by artist, category, or artwork title).  
+•	Sort/Filter option  
 
 ## Contact
 
