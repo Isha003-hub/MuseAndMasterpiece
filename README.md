@@ -14,7 +14,7 @@
   
 - *Entity Relationships*
   - One-to-Many:
-      • Artists -> Artworks 
+      • Artists -> Artworks  
       • Category -> Artworks  
     
 - *Database Integration*
