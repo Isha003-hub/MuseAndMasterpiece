@@ -13,7 +13,7 @@
   - Create, update, and delete Category.
   
 - *Entity Relationships*
-  - One-to-Many:
+  - One-to-Many: 
       • Artists -> Artworks  
       • Category -> Artworks  
     
