@@ -14,8 +14,8 @@
   
 - *Entity Relationships*
   - One-to-Many:
-      • Artists -> Artworks
-      • Category -> Artworks
+      • Artists -> Artworks 
+      • Category -> Artworks  
     
 - *Database Integration*
   - Built with ASP.NET Core, C#, and Entity Framework.
